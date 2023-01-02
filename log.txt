@@ -1,0 +1,10 @@
+12 par 
+8 par 
+9 impar 
+1 impar 
+2 par 
+4 par 
+6 par 
+8 par 
+9 impar 
+0 par 
